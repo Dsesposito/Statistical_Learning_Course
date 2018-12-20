@@ -1,1 +1,1 @@
-# Statistical_Learning_Course
+## Repository for the course of statistical learning
